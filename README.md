@@ -1,6 +1,8 @@
 # COMBO
 Merging Generated and Retrieved Knowledge for Open-Domain QA
 
+![alt text](https://github.com/yunx-z/COMBO/blob/main/framework_v4_combo.jpg?raw=true)
+
 # Instructions 
 
 ## Setup 
